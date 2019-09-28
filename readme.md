@@ -11,8 +11,9 @@ API Endpoints:
 
 **Parameters:**
 
-**t** : _search type (track, artist, album)_
-**q** : _query (ex: Dancing Queen)_ 
+> **t** : _search type (track, artist, album)_
+
+> **q** : _query (ex: Dancing Queen)_ 
 
 #### Search Example
 `https://quinton-spotify-api.herokuapp.com/search?t=track&q=Something`
